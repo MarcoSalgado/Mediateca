@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Mediateca sem import" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="atec.poo.mediateca.app.App" />
+    <module name="app" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
